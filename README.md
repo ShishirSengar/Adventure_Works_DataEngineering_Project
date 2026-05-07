@@ -6,9 +6,9 @@ An end-to-end data engineering solution built on Azure, showcasing data ingestio
 Microsoft Azure
 Azure Data Factory
 Azure Databricks
-Azure Synapse Analytics (if used)
+Azure Synapse Analytics
 Power BI
 
 # Key Learnings
-Implemented ETL pipeline in Azure
-Handled real-world data flow
+Implemented ETL pipeline in Azure.
+Handled real-world data flow.
